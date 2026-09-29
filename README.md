@@ -6,6 +6,17 @@
 
 > **Research use only.** Outputs are probabilistic model estimates, not clinical diagnoses or treatment advice. This is a research platform, not a diagnostic device.
 
+## Documentation hub
+
+This project documentation is split into focused pages so it is easier to navigate on GitHub.
+
+- [Documentation home](./docs/README.md)
+- [Overview](./docs/overview/README.md)
+- [Data & cohort](./docs/data/README.md)
+- [Methods](./docs/methods/README.md)
+- [Evaluation & trustworthiness](./docs/evaluation/README.md)
+- [Implementation & roadmap](./docs/project/README.md)
+
 ---
 
 ## Table of contents
